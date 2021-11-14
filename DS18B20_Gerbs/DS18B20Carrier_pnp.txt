@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=DS18B20Carrier
+*Date=12:39:31
+*CreatedBy=Fritzing 0.9.8b.2021-08-03.CD-92-0-b3d4fefa
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;15.7014;-9.74704;0;Bottom;TXT2
+2;;;37.0656;-13.454;0;Bottom;Hole3
+3;;;5.2067;-16.454;90;Top;3v
+4;;;5.2067;-3.45403;90;Top;GND
+5;;;5.20656;-16.454;90;Bottom;3v1
+6;;THT;33.0654;-9.91403;0;Bottom;Clips
+7;;;12.0656;-13.454;0;Bottom;Hole2
+8;4.7k;THT;25.0656;-10.374;90;Bottom;4.7k
+9;;;28.8967;-7.17399;0;Bottom;TXT5
+10;;;15.5682;-12.2104;0;Bottom;TXT1
+11;;THT;18.0656;-9.91403;0;Bottom;DS18B20
+12;;;37.0656;-6.45402;0;Bottom;Hole4
+13;;;29.8873;-9.74704;0;Bottom;TXT4
+14;;;5.20656;-3.45403;90;Bottom;GND1
+15;;;15.768;-7.01735;0;Bottom;TXT3
+16;;;12.0656;-6.45402;0;Bottom;Hole1
